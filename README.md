@@ -21,7 +21,7 @@ Best User Bot To Manage Your Telegram Account
 
 ### Host FUGAKU  In Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKCYBERGANG/FUGAKU_the_userbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKCYBERGANG/FUGAKU_THE_UBOT)
 
 ## Telegram-String
 
