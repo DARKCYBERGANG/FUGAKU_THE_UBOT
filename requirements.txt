@@ -1,0 +1,2 @@
+telethon>=1.16.4
+-r requirements-startup.txt
