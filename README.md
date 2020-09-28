@@ -32,8 +32,8 @@ Best User Bot To Manage Your Telegram Account
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/DARKCYBER/FUGAKU_the_userbot
-cd FUGAKU_the_userbot
+git clone https://github.com/DARKCYBER/FUGAKU_THE_UBOT
+cd FUGAKU_THE_UBOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
