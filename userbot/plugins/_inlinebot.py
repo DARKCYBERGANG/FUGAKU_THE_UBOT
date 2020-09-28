@@ -34,7 +34,7 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
             buttons=[
                     [custom.Button.url("Creator🧑", "https://t.me/script_src_main")],
                     [custom.Button.url("👨‍💻Source Code‍💻", "https://github.com/DARKCYBERGANG/FUGAKU_THE_UBOT"), custom.Button.url(
-                        "Deploy 🌀", "https://dashboard.heroku.com/new?template=https%2Fgithub.com%2Fxditya%2FTeleBot")],
+                        "Deploy 🌀", "https://heroku.com/deploy?template=https://github.com/DARKCYBERGANG/FUGAKU_THE_UBOT")],
                     [custom.Button.url("Updates and Support Group↗️", "https://t.me/Fugaku_Support_Group")]
                 ],
                 link_preview=False
