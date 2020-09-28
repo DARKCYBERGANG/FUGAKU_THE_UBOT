@@ -1,6 +1,6 @@
-# Ported from other Telegram UserBots for TeleBot
+# Ported from other Telegram UserBots for FUGAKU
 # Kangers, don't remove this line 
-# @its_xditya
+# @script_src_main
 
 from userbot import CMD_LIST
 from userbot import ALIVE_NAME
