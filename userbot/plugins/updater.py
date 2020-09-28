@@ -1,9 +1,9 @@
-# For TeleBot
+# For FUGAKU
 # Copyright (C) 2019 The Raphielscape Company LLC.
 # Licensed under the Raphielscape Public License, Version 1.c (the "License");
 # you may not use this file except in compliance with the License.
 # credits to @AvinashReddy3108
-# Rewritten for TeleBot by @xditya
+# Rewritten for FUGAKU by @script_src_main
 
 """
 This module is used for updating TeleBot
@@ -25,8 +25,8 @@ requirements_path = path.join(
 
 HEROKU_API_KEY = Var.HEROKU_API_KEY
 HEROKU_APP_NAME = Var.HEROKU_APP_NAME
-GIT_REPO_NAME = "TeleBot"
-UPSTREAM_REPO_URL = "https://github.com/xditya/TeleBot"
+GIT_REPO_NAME = "FUGAKU_THE_UBOT"
+UPSTREAM_REPO_URL = "https://github.com/DARKCYBERGANG/FUGAKU_THE_UBOT"
 
 async def gen_chlog(repo, diff):
     ch_log = ''
