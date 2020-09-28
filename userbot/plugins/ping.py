@@ -45,4 +45,4 @@ async def _(event):
     end = datetime.now()
     ms = (end - start).microseconds / 1000
     uptime = get_readable_time((time.time() - StartTime))
-    await event.edit(f"Ping speed: {ms}\n♨️Fugaku Uptime: {uptime}🔊\n[Join us](http://t.me/Fugaku_Support_Group)")
+    await event.edit(f"🔊Ping speed: {ms}🔊\n\n♨️Fugaku Uptime♨️: {uptime}\n\n[Join us](http://t.me/Fugaku_Support_Group)")
