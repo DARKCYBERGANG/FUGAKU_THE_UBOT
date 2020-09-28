@@ -19,7 +19,7 @@ pm_caption += "**Heroku Database** : `AWS - Working Properly`\n"
 pm_caption += "**Log chat** : Connected \n"
 pm_caption += "**Sudo** : Fully accessible \n"
 pm_caption += "**SpamProtect** : True \n\n"
-pm_caption += "**License** : [MIT Licence](github.com/DARKCYBERGANG/FUGAKU_the_userbot/blob/master/LICENSE)\n"
+pm_caption += "**License** : [GNU Licence](github.com/DARKCYBERGANG/FUGAKU_THE_UBOT/blob/master/LICENSE)\n"
 pm_caption += "Copyright : By [DARKCYBER@Github](GitHub.com/DARKCYBERGANG)\n"
 pm_caption += "Stay updated with us : join @Fugaku_Userbot_Official"
 
