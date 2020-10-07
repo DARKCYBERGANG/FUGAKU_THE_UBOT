@@ -30,7 +30,7 @@ async def _(event):
 
         animation_chars = [
         
-            "`Bye🙂🙂`",
+            "`Bye 🙂🙂`",
             "`Goodbye`",    
             "`See You Soon`",
             "`I Know No One Would Miss Me 😔😔`",
