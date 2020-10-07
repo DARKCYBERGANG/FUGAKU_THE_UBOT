@@ -64,7 +64,7 @@ async def tiny_pic_spam(e):
             await e.client.send_message(
                 LOGGER_GROUP,
                 "#PICSPAM \n\n"
-                "PicSpam was executed successfully"
+                "PicSpam was executed Successfully"
                 )
 @register(outgoing=True, pattern="^.delayspam (.*)")
 async def spammer(e):
