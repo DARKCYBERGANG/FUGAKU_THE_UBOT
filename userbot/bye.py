@@ -33,9 +33,10 @@ async def _(event):
             "`Bye🙂🙂`",
             "`Goodbye`",    
             "`See You Soon`",
-            "`I Know No One Would Miss Me `",
-             "`I Know No One Would Remember Me Until They Have A Work`",
-             "`But A Good Bye To You `",
+            "`I Know No One Would Miss Me 😔😔`",
+             "`I Know No One Would Remember Me 🤧🤧`",
+             "`Until They Have A Work 🌝🌝`",
+             "`But A Good Bye To You 😃😃`",
             "`Goodbye Until I Come Back`",
         ]
 
