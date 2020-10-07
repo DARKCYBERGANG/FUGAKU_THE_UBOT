@@ -112,10 +112,10 @@ async def _(event):
             "iZ",
             "pErU" ,
             "uNtiL",
-            "sHuDhAnShU",
+            "SuDhAnShU",
             "aRriVe",
             "😈",
-            "EvErYbOdY iZ pErU uNtiL sHuDhAnShU aRriVe 😈"
+            "EvErYbOdY iZ pErU uNtiL SuDhAnShU aRriVe 😈"
         ]
 
     for i in animation_ttl:
