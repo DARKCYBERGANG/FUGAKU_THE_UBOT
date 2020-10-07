@@ -7,7 +7,7 @@ from uniborg.util import admin_cmd
 import asyncio
 from telethon import events
 
-@borg.on(admin_cmd(pattern="ABHISHEK?(.*)"))
+@borg.on(admin_cmd(pattern="(.mafia*)"))
 async def _(event):
      if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
         await event.edit("Sunn be lawde")
@@ -22,9 +22,9 @@ async def _(event):
         await asyncio.sleep(1)
         await event.edit("Mai hu tera baap")
         await asyncio.sleep(0.8)
-        await event.edit("Naam ABHISHEK")
+        await event.edit("Naam M4f1aClow3n")
         await asyncio.sleep(0.7)
-        await event.edit("**ABHISHEK PAPA**")
+        await event.edit("** M4f1aClow3n PAPA**")
         await asyncio.sleep(1)
         await event.edit("`Abb Nikal yaha se madarchod`")
 
@@ -32,5 +32,5 @@ async def _(event):
 async def _(event):
     if event.fwd_from:
         return
-    await event.edit("`Ek hi hai baap tum sabka. Naam hai ABHISHEK `")
+    await event.edit("`Ek hi hai baap tum sabka. Naam hai M4f1aClow3n`")
     await asyncio.sleep(999)
