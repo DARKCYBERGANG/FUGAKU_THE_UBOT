@@ -1,6 +1,5 @@
-"""Fun pligon...for HardcoreUserbot
-\nCode by @Rambo_86
-type `.abhi` and `.abaap` to see the fun.
+
+type `.mafia` and `.amafia` to see the fun.
 """
 import random, re
 from uniborg.util import admin_cmd
@@ -28,7 +27,7 @@ async def _(event):
         await asyncio.sleep(1)
         await event.edit("`Abb Nikal yaha se madarchod`")
 
-@borg.on(events.NewMessage(pattern=r"\.abaap", outgoing=True))
+@borg.on(events.NewMessage(pattern=r"\.amafia", outgoing=True))
 async def _(event):
     if event.fwd_from:
         return
