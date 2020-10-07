@@ -1,4 +1,4 @@
-# Copyright (c) By Midhun KM [@StarkXD]
+# Copyright (c) By Midhun KM [@StarkXD] 
 # I Am Noob
 # Official Web : nekobot.xyz
 # "Copy It As You Want But Don't Edit Credits"
