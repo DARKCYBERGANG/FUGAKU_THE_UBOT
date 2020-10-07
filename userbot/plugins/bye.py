@@ -4,7 +4,7 @@
 
 """
 
-.bye
+.leave
 
 """
 
@@ -20,7 +20,7 @@ async def leave(e):
 
     if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
 
-        await e.edit("`People here are so dumb 😑. I'm leaving.`")
+        await e.edit("`People here are so dumb 😑. I'm leaving This LOL Group.`")
 
         time.sleep(3)
 
