@@ -36,4 +36,4 @@ async def _(event):
                     ))
                 except Exception as e:
                     await event.reply(str(e))
-            await event.edit("FUGAKU has Successfully invited the user to the chat. Now He Can Enjoy Too.")
+            await event.edit("FUGAKU Has Successfully invited the user to the chat. Now He Can Enjoy Too.")
