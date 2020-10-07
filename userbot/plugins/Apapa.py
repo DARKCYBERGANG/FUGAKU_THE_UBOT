@@ -1,5 +1,3 @@
-
-type `.mafia` and `.amafia` to see the fun.
 """
 import random, re
 from uniborg.util import admin_cmd
