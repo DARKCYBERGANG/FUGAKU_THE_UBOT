@@ -33,7 +33,7 @@ async def _(event):
         after_tr_text = translated.text
         # TODO: emojify the :
         # either here, or before translation
-        output_str = """**Translated by FUGAKU UserBot**\nFrom {} to {}
+        output_str = """**Translated by FUGAKU UserBot **\nFrom {} to {}
 {}""".format(
             translated.src,
             lan,
