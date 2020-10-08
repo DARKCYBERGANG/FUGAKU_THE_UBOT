@@ -13,7 +13,7 @@ from collections import deque
 
 
 
-@borg.on(admin_cmd(pattern=r"emote$", outgoing=True))
+@borg.on(admin_cmd(pattern=r"emoji$", outgoing=True))
 async def _(event):
     if event.fwd_from:
         return
