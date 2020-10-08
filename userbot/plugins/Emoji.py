@@ -17,7 +17,7 @@ from collections import deque
 async def _(event):
     if event.fwd_from:
         return
-    animation_interval = 1.3
+    animation_interval = 1.5
     animation_ttl = range(0, 50)
     animation_chars = [
             "⁣😀",
