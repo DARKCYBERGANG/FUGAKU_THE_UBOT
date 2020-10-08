@@ -1,6 +1,6 @@
 """Bye Plugin 
 Command:
-.byy  """
+.by  """
 
 from telethon import events
 
