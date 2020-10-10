@@ -62,7 +62,7 @@ async def _(event):
 
               songh = await conv.get_response()
 
-              await borg.send_file(event.chat_id, songh, caption="🔆**Here's the requested song!**🔆\n`Check out` [TeleBot](https://github.com/xditya/TeleBot)")
+              await borg.send_file(event.chat_id, songh, caption="🔆**Here's the requested song!**🔆\n`Check out` [FUGAKU](https://github.com/Keys-007/FUGAKU_THE_UBOT)")
 
               await event.delete()
 
