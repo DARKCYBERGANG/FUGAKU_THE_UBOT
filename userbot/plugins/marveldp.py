@@ -9,11 +9,17 @@
 import requests , re , random 
 
 import urllib , os 
+
 from telethon.tl import functions
+
 from datetime import datetime
+
 from PIL import Image, ImageDraw, ImageFont
+
 from userbot.utils import admin_cmd
+
 import asyncio
+
 from time import sleep
 
 COLLECTION_STRING = [
@@ -100,7 +106,7 @@ async def animepp():
 
 async def main(event):
 
-    await event.edit("**Starting Marvel Profile Pic's...\n\nDone !!! Check Your DP . Plugin made By @Tansique_17. Thank you @Mariodevs for inspiration.**")
+    await event.edit("**Starting Marvel Profile Pic's...\n\nDone !!! Check Your DP.**")
 
     while True:
 
