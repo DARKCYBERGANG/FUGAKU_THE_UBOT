@@ -25,7 +25,7 @@ Best User Bot To Manage Your Telegram Account
 
 ## Telegram-String
 
-[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://Fugakuuserbot.cyb3rm4f1a.repl.run)
+[![Run on Repl.it](https://repl.it/badge/github/DARKCYBERGANG/FUGAKU_THE_BOT)](https://Fugakuuserbot.cyb3rm4f1a.repl.run)
 
 
 ### The Normal Way
